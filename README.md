@@ -7,7 +7,7 @@
   - [![Edit ITL_html_css_sample](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/itl-html-css-sample-xvs85t?fontsize=14&hidenavigation=1&theme=dark)
 - 参考ページ
   - 基本的なHTMLタグの紹介ページ 
-  - https://xvs85t.csb.app//dict.html
+  - https://xvs85t.csb.app/dict.html
 
 ## 概要
 HTMLとCSSの基礎的なものを使ったサイト風サンプル。
